@@ -1,0 +1,23 @@
+ {
+    "todos": [
+    {   "id": 1,
+        "nombre": "Cancerbero",
+        "edad": "33"
+        },
+    {
+        "id": 2,
+        "nombre": "Lil Supa",
+        "edad": "28"
+        },
+    {
+        "id": 3,
+        "nombre": "Horus",
+        "edad": "23"
+        },
+    {
+        "id": 4,
+        "nombre": "Kase O",
+        "edad": "35"
+        }
+  ]
+}
